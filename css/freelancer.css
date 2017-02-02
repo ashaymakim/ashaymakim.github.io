@@ -530,3 +530,4 @@ fieldset[disabled] .btn-success.active {
   overflow:hidden;
   text-align:center;
 }
+.top-buffer { margin-top:20px; }
